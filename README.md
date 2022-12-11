@@ -23,9 +23,9 @@ into Github or Gdrive.
 
 Are located in the following directory :
 
-https://github.com/df8-naufal-aldy-pradana/06-sparksql-dataframes/blob/main/airflow-spark/notebooks/spark_fhv_trip.ipynb
+### [`spark_fhv_trip`](https://github.com/df8-naufal-aldy-pradana/06-sparksql-dataframes/blob/main/airflow-spark/notebooks/spark_fhv_trip.ipynb)
 
-In case, I havent finished the orchestration workflow
+***In case, I havent finished the orchestration workflow (In progress)
 
 ## How to Run Project:
 1. cd airflow-spark 
