@@ -36,4 +36,4 @@ In case, I havent finished the orchestration workflow
 6. type external-IP:8181 to access Airflow
 7. type external-IP:8282 to access Spark manager
 8. type docker logs -f docker-jupyter-spark-1, if want to access jupyter notebook.  This command will generate access token, copy the generated link with access token behind it to the web url to open jupyter notebook.
-9. go to /spark/resources/mynotebooks:/home/jovyan/work/mynotebooks/ directory on jupyter notebook [NB: Kindly do this step if I havent finished the orchestration workflow, currently working on it, will delete this notes later if I'm done]
+9. go to /notebooks:/home/jovyan/work/notebooks/ directory on jupyter notebook [NB: Kindly do this step if I havent finished the orchestration workflow, currently working on it, will delete this notes later if I'm done]
