@@ -19,10 +19,11 @@ into Github or Gdrive.
 
 5. Write all of the result to BigQuery table (additional - point plus)
 
-## The notebook that contain the answer of task
+## The notebook that contain the answer of above task
 
-Are located in :
-/airflow-spark/spark/resources/mynotebooks/sparkxperiment.ipynb
+Are located in the following directory :
+
+https://github.com/df8-naufal-aldy-pradana/06-sparksql-dataframes/blob/main/airflow-spark/notebooks/spark_fhv_trip.ipynb
 
 In case, I havent finished the orchestration workflow
 
